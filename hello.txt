@@ -1,6 +1,6 @@
 hello git22222222
 hello git33333333
-hello git
+hello git clear bug
 hello git
 hello git
 hello git
